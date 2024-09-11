@@ -1,9 +1,9 @@
 import PageHeader from '@/components/PageHeader';
 
-export default function HomePage() {
+export default function ProfilePage() {
   return (
     <>
-      <PageHeader title="Home Page" />
+      <PageHeader title="Profile Page" />
     </>
   );
 }
