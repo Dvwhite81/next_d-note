@@ -7,4 +7,14 @@
   --bg-light: #d4f1f4;
   --accent-color: #75e6da;
   --primary-color: #189ab4;
+
+  --nav-height: 7vh;
+  --main-height: 93vh;
+  --side-width: 30vw;
+  --main-width: 70vw;
+  --side-hover-height: 75vh;
+}
+
+* {
+  box-sizing: border-box;
 }
